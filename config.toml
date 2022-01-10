@@ -1,0 +1,4 @@
+baseURL = 'https://apptects.de/'
+languageCode = 'en-us'
+title = 'app|tects'
+theme = "bigspring-light"
